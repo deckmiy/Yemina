@@ -9,3 +9,5 @@ Yemina is an automated cell counting software that quickly and accurately identi
   <em>Left: Software UI | Right: Processing Details</em>
 </p>
 
+The software manual can be found in the readme.pdf.
+
